@@ -1,19 +1,5 @@
 # Food-Delivery-Apps-Analysis
 
-<!-- <style>
-    #container {
-        display: flex;
-    }
-
-    img {
-        border-radius: 10%;
-        width: 19%;
-        margin-right: 1%;
-    }
-</style> -->
-
-
-
 <div id="container" display: flex >
 <img src="https://play-lh.googleusercontent.com/kDzXydb6ZT4LUj0RiU-GyptnVgCzzk9snN1FVxj2YfqFb4PpRdQRBKzdz4jzUOxAS9-d" width="18%" style="margin-right: 1%; border-radius: 10%;">
 <img src="https://play-lh.googleusercontent.com/2aSEyMxSUQVknFM5lkmbxv0LhJZvSkwotA-jtlqJSjplXl4_BszCW9_FzzqPBpEeoPE" width="18%" style="margin-right: 1%; border-radius: 10%;">

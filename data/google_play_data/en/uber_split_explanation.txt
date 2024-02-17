@@ -1,1 +1,0 @@
-The Uber Eeats file had been split because Github has max size limit for single file.
